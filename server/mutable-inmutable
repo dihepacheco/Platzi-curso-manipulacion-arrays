@@ -1,0 +1,3 @@
+//Siempre preguntarme si al hacer un cambio en un array esto va a producir un efecto colateral , si es algo que queremos
+
+//Javascript lo que hace cuando queremos generar una copia sin afectar el original lo que hacemos es solo copia los elementos que cambiaron , entonces hace una ref en memoria de las otras variables y no crea nuevas.
