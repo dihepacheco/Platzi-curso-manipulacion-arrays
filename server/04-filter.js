@@ -1,6 +1,7 @@
 //ayuda a filtrar los elementos de un array con base a un  condicional , los elementos que cumplan esta condición van hacer parte de ese nuevo array - filter es mutable
 // filter y map pueden trabajar juntos
 // filter puede retornar un array con 0 elementos o menos elementos pero nunca de más.
+//Filter no cambia el estado original de un array
 
 const words = ['spray', 'limit', 'elite', 'exuberant'];
 
